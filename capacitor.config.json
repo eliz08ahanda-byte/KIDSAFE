@@ -1,0 +1,6 @@
+{
+  "appId": "com.Kidsafe.app",
+  "appName": "Kidsafe",
+  "webDir": "dist",
+  "bundleWebRuntime": false
+}
